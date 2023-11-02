@@ -1,0 +1,174 @@
+<Solution>
+  <PropertyGroup Name="PlatformDefense" Version="2.3.3.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Project Name="MainScene.csd" Type="Scene" />
+        <Fnt Name="alphabet_dot_attack.fnt" />
+        <Image Name="pause.png" />
+        <Project Name="TitleScene.csd" Type="Scene" />
+        <Image Name="arrowIcon.png" />
+        <Image Name="btnSell.png" />
+        <Image Name="btnUpgrade.png" />
+        <Image Name="clickerMode.png" />
+        <Image Name="logo.png" />
+        <Image Name="popupBackground.png" />
+        <Image Name="questionMark.png" />
+        <Image Name="setting.png" />
+        <Image Name="smallPopup.png" />
+        <Image Name="titleBackground.png" />
+        <Image Name="touchToPlay.png" />
+        <Image Name="close.png" />
+        <Image Name="barBackground.png" />
+        <Image Name="musicIcon.png" />
+        <Image Name="soundIcon.png" />
+        <Image Name="whiteSquare.png" />
+        <Image Name="emptyBar.png" />
+        <Image Name="leaderboard.png" />
+        <Image Name="monster0_0.png" />
+        <Image Name="hero15_0.png" />
+        <Image Name="hero2_0.png" />
+        <Image Name="monster31_0.png" />
+        <Image Name="maceBall.png" />
+        <Audio Name="Coin.wav" />
+        <Image Name="dary0.png" />
+        <Image Name="ddam.png" />
+        <Fnt Name="boldPixelFont.fnt" />
+        <Project Name="MessageBoxScene.csd" Type="Scene" />
+        <Image Name="btnOk.png" />
+        <Image Name="btnRanking.png" />
+        <Image Name="clickerRanking.png" />
+        <Image Name="continue.png" />
+        <Image Name="linker.png" />
+        <Image Name="music.png" />
+        <Image Name="new.png" />
+        <Image Name="ranking.png" />
+        <Image Name="rankingBackfground.png" />
+        <Image Name="rankingTitle.png" />
+        <Image Name="settingTitle.png" />
+        <Image Name="signIn.png" />
+        <Image Name="signOut.png" />
+        <Image Name="sound.png" />
+        <Image Name="yellowBar.png" />
+        <Image Name="purpleMonster.png" />
+        <Image Name="continueDisable.png" />
+        <Project Name="LoadingScene.csd" Type="Scene" />
+        <Project Name="PauseScene.csd" Type="Scene" />
+        <Image Name="home.png" />
+        <Image Name="resume.png" />
+        <Project Name="UpgradeScene.csd" Type="Scene" />
+        <Image Name="breeFace.png" />
+        <Image Name="checkPoint.png" />
+        <Image Name="coinCount.png" />
+        <Image Name="descriptionBox.png" />
+        <Image Name="enemyCount.png" />
+        <Image Name="gameOverTitle.png" />
+        <Image Name="quit.png" />
+        <Image Name="restart.png" />
+        <Image Name="time.png" />
+        <Image Name="tongMonster.png" />
+        <Image Name="waveCount.png" />
+        <Image Name="waveTitle.png" />
+        <Project Name="GameOverScene.csd" Type="Scene" />
+        <Image Name="test.png" />
+        <Project Name="WaveScene.csd" Type="Scene" />
+        <Image Name="whiteCircle.png" />
+        <Image Name="newMonster.png" />
+        <Project Name="NewMonsterScene.csd" Type="Scene" />
+        <Image Name="coin0.png" />
+        <Image Name="day4_screenshot.png" />
+        <Image Name="gradation.png" />
+        <Project Name="TrapInfo.csd" Type="Scene" />
+        <Project Name="TutorialScene.csd" Type="Scene" />
+        <Image Name="blueRect.png" />
+        <Image Name="blueRectSelected.png" />
+        <Image Name="redRect.png" />
+        <Image Name="emptyScreenShot.png" />
+        <Image Name="spike.png" />
+        <Image Name="heroWeapon0_0.png" />
+        <Image Name="whiteStar.png" />
+        <Image Name="doorFront.png" />
+        <Image Name="upgradeImage.png" />
+        <Project Name="WaveWithoutCheckPointScene.csd" Type="Scene" />
+        <Project Name="NewTrapScene.csd" Type="Scene" />
+        <Image Name="ironBoard.png" />
+        <Image Name="ironRect.png" />
+        <Image Name="lvNAtt.png" />
+        <Image Name="grayRect.png" />
+        <Image Name="lockIcon.png" />
+        <Project Name="GameClearScene.csd" Type="Scene" />
+        <Image Name="gameClearTitle.png" />
+        <Image Name="scoreImage.png" />
+        <Image Name="btnGoldShop.png" />
+        <Image Name="goldShopImage.png" />
+        <Image Name="goldShopTitle.png" />
+        <Image Name="shopButton.png" />
+        <Image Name="videoAds.png" />
+        <Image Name="shopButtonSingle.png" />
+        <Project Name="ShopScene.csd" Type="Scene" />
+        <TTF Name="BM-HANNA.ttf" />
+        <Project Name="Indicator.csd" Type="Scene" />
+        <Project Name="HeroSelectScene.csd" Type="Scene" />
+        <Image Name="btnHero.png" />
+        <Image Name="btnLeaderboard.png" />
+        <Image Name="btnRankingMain.png" />
+        <Image Name="check.png" />
+        <Image Name="cursor.png" />
+        <Image Name="heroTitle.png" />
+        <Image Name="lockedHero.png" />
+        <Image Name="play.png" />
+        <Image Name="unlockedHero.png" />
+        <Image Name="hero6_0.png" />
+        <Image Name="hero18_0.png" />
+        <Image Name="hero20_0.png" />
+        <Image Name="blueStar.png" />
+        <Project Name="EndingScene.csd" Type="Scene" />
+        <Image Name="bow0.png" />
+        <Image Name="bow1.png" />
+        <Image Name="talk.png" />
+        <Image Name="monster18_0.png" />
+        <Image Name="monster18_1.png" />
+        <Project Name="TutorialHelperScene.csd" Type="Scene" />
+        <Image Name="blackRectangle.png" />
+        <Image Name="hole.png" />
+        <Project Name="CheckPointScene.csd" Type="Scene" />
+        <Image Name="checkPointBackground.png" />
+        <Image Name="checkPointFlag.png" />
+        <Image Name="bossMon.png" />
+        <Project Name="ShareDialog.csd" Type="Scene" />
+        <Image Name="videoAdsGrey.png" />
+        <Project Name="SettingScene.csd" Type="Scene" />
+        <Project Name="DailyRewardScene.csd" Type="Scene" />
+        <Image Name="note.png" />
+        <Image Name="trophy.png" />
+        <Project Name="AchievementScene.csd" Type="Scene" />
+        <Image Name="hero0_0.png" />
+        <Image Name="hero3_0.png" />
+        <Image Name="hero11_0.png" />
+        <Image Name="hero13_0.png" />
+        <Image Name="lockedAchievement.png" />
+        <Image Name="games_controller.png" />
+        <Image Name="gamecenter-icon.png" />
+        <Image Name="shopItem0.png" />
+        <Image Name="shopItem1.png" />
+        <Image Name="shopItem2.png" />
+        <Image Name="shopItem3.png" />
+        <Image Name="shopItem4.png" />
+        <Image Name="btnGray.png" />
+        <Image Name="scoreRanking.png" />
+        <Image Name="waveRanking.png" />
+        <Image Name="facebookLike.png" />
+        <Project Name="Mine.csd" Type="Scene" />
+        <Image Name="mine.png" />
+        <Image Name="mineEffect.png" />
+        <Image Name="heroWeapon13_0.png" />
+        <Image Name="hero13_1.png" />
+        <Image Name="mineTitle.png" />
+        <Project Name="ReviewBox.csd" Type="Scene" />
+        <Image Name="btnFriends.png" />
+        <Project Name="friendsScene.csd" Type="Scene" />
+        <Image Name="friendsTitle.png" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

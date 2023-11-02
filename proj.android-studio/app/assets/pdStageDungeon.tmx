@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="PDTileset" tilewidth="16" tileheight="16" tilecount="1024">
+  <image source="tileImage.png" width="512" height="512"/>
+  <tile id="0">
+   <properties>
+    <property name="Player" value="0"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="Spawn" value="true"/>
+   </properties>
+  </tile>
+  <tile id="64">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="65">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="66">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="67">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="68">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="69">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="70">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="71">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="72">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="96">
+   <properties>
+    <property name="Type" value="Block"/>
+   </properties>
+  </tile>
+  <tile id="224">
+   <properties>
+    <property name="Candle" value="true"/>
+   </properties>
+  </tile>
+  <tile id="225">
+   <properties>
+    <property name="Mark" value="Start"/>
+   </properties>
+  </tile>
+  <tile id="226">
+   <properties>
+    <property name="Mark" value="End"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Back" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1UEOgjAUhOG+CyBeBPQiKBcBvP/GSUw3bGrTGAfyf8ksunuUzGtKOJsuUroovXKN8tnVoNlG5abco3x2NWm2h/JU5iifXS2abVU25RXlsyv64YV+eKEfHy7f19oPl/639uPf/c/3vL/vb/+LS//zHPt5jra3aveU696q3VOu73rtnnJ912v3FP34LfpBPwAAAAAAAACg1Rv7S1OE
+  </data>
+ </layer>
+ <layer name="Stage" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1EcOglAARVG2Zi+7sJeBvU3dkNEdsALFEtfjHWhCzBfrV8B3kzMhxM8LRMd5ruPZ/IOOV76RdkRnR1DaYSft0A4bvbJD/1f20g7tsFHcdpi2dNBFD30MMMTogWcP046gtMNOt84zfUtjTDDFzAnPjqDz4vI+4rIjSt+V88Z5UXkf9wrzjgWWWCGBJFJII4MscsijgGJId6yxgYcSyqigihrqaKCJFtq+HVvDb1yufXMH57sH7LEDz+DyPK7puue77tthvPcX78MW7fi/HUoppZRSSimllFK3OgFW95Te
+  </data>
+ </layer>
+ <layer name="Unit" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt0rENwCAQBMHH/TcJbsSSM2cEoH+jmQpWuosAgFp6dgAf9qijxXl73NkBvE77FTX4FTv88VdXdsBCIzsAAAAAAGDCA4t2Bw8=
+  </data>
+ </layer>
+ <layer name="Guide" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzrEJADAIAEH330JcNBaOIKTwDr7/CAAA4LLq8vfEgpoAAAAAAAC46wGrFQKL
+  </data>
+ </layer>
+ <layer name="Deco" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztWFlSQjEQzNVkke0SyuYC3ClXcPczJ0ARRY9jT5Ip8hFMhZK8fExX9QdVQzL9XjrToFQ+tuCtUhfMjVL6DvzrO6+o+wGnqGNu/VpNgfa+QU/MD/R0n9DxgrpvcIY6ZpM6eO9r9MSkzw8JHc+o24Fz1DFr0HGFnphj9NRK6BihbuHqNbMGHXP3bC0n6Kmd0DH0XsL708wadMzcWbckz3YSOgZ7P2lmDTqmrn9L8mw3oaPvvYR3opk16Ji482RJnj1P6Oh5L8EjmrkN1isN3nfs/G1Jnu0ldJx7Ly1Rx6xBxyV6YpJn+wkdXe+lFeqYNehYuZ4sybODhI6O9xJ0a2YNOpbujFiSZ4cJHW3vJZo1zBp0LPxc89SjhI6W9xLNGmYN91WYE3PmeSwnNvk+wpyYM89jObFJHWFOzJnnsZzYpI4wJ+bM8zAnlug3BvQazYk58zzMifjdopilEcuJOfM8zIkl+j2EWE7MmedhTizR7yHEcmLOPA9zYol+DyGWE3PmeZgTS/SbQpgTc+Z5mBPLdLrHmeuDnimdD3tvwbd0B9F9SrOB5ty/rPEIPin7v8RJgbNBHqf7iu5emiM0E7OwA9fgG/gObpS7e+m8foJfvuaUwPoG+xjsZ7Cvwf7mmHXC70OHgR4DXWZ95HoCgUAgEAgEAoFAIBAIBAJBzfgFnc05hg==
+  </data>
+ </layer>
+</map>

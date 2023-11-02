@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "HelloWorld::WaveSchedule(float):HelloWorldScene.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_waveCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Title::PlayContinue():Title.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "_stageToPlay">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HelloWorld::gravityUpdate(float):HelloWorldScene.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "droppableArray.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HelloWorld::missileUpdate(float):HelloWorldScene.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "__25-[AppController saveGame]_block_invoke_2:AppController.mm">
+      </ContextState>
+      <ContextState
+         contextName = "GameManager::iapSuccess(int):GameManager.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "GameManager::getInstance()-&gt;currentStageLayer-&gt;CollectedCoinCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ShopLayer::init():ShopLayer.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "GameManager::getInstance()-&gt;SmallPriceText">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Title::onDailyRewardCheck(float):Title.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "today">
+            </PersistentString>
+            <PersistentString
+               value = "GameManager::getInstance()-&gt;currentScene">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TimeManager::onHttpRequestCompleted(cocos2d::Node*, void*):TimeManager.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "receivedYesterdayTime-&gt;tm_mday">
+            </PersistentString>
+            <PersistentString
+               value = "receivedTime-&gt;tm_mday">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HelloWorld::Shoot(cocos2d::Vec2):HelloWorldScene.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "location.x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "Droppable::updatePosition(float):Droppable.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "this-&gt;getTag()">
+            </PersistentString>
+            <PersistentString
+               value = "onGround">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

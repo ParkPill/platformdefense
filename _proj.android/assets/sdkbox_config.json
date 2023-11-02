@@ -1,0 +1,39 @@
+{
+    "android": {
+        "iap": {
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhIHQ2PHfOkCQTIylGsYqpL8WR7eRSAgj2lZm13vvPeCwLJs6TyDX+Vgl7CRwsZT0Lvh7PQI+WhYqqzTgaU4hsewuGtPqG9MTdMJrNAVxDdydnMpVthLwnWvFFxNV/61viYaKqMoQ0k/J7GKRy7nMJ58xsk0s8vwG3otHYUW/uEunuZ7TRSZ64W6/Oodvh5YiyxGOllH7RFXw7jxihxqa+Ed3XiNrCfxIWlim+1x1BrIe2nNPXCa9v6k3BmGlpqcBEuZmiW0ulBMCUUj7y3c5F+KVTlwiDQA9a4SXp/3s7x1uSXUNrpoC6k3CgkdbR+McQGAmSEjUFljAZrJOD7thNwIDAQAB",
+            "items": {
+                "big_coin": {
+                    "id": "com.magmon.platformdefense.big_coin"
+                },
+                "huge_coin": {
+                    "id": "com.magmon.platformdefense.huge_coin"
+                },
+                "small_coin": {
+                    "id": "com.magmon.platformdefense.small_coin"
+                }, 
+                "middle_coin": {
+                    "id": "com.magmon.platformdefense.middle_coin"
+                }
+            }
+        }
+    }, 
+    "ios": {
+        "iap": {
+            "items": {
+                "huge_coin": {
+                    "id": "com.magmon.PlatformDefense.huge_coin"
+                }, 
+                "big_coin": {
+                    "id": "com.magmon.PlatformDefense.big_coin"
+                }, 
+                "small_coin": {
+                    "id": "com.magmon.PlatformDefense.small_coin"
+                }, 
+                "middle_coin": {
+                    "id": "com.magmon.PlatformDefense.middle_coin"
+                }
+            }
+        }
+    }
+}

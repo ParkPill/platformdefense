@@ -1,0 +1,141 @@
+{
+    "android": {
+        "GoogleAnalytics": {
+            "trackingCode": "UA-57024566-19"
+        }, 
+        "Chartboost": {
+            "signature": "20955b7535078d63ec93021178f31f6a62813276", 
+            "id": "567a5c5ff789826652367180", 
+            "ads": {
+                "Default": {
+                    "type": "interstitial"
+                }, 
+                "Level Complete": {
+                    "type": "rewarded_video"
+                }, 
+                "MoreApp": {
+                    "type": "more_app"
+                }
+            }
+        }, 
+        "Facebook": {
+            "debug": false
+        }, 
+        "iap": {
+            "items": {
+                "huge_coin": {
+                    "id": "com.magmon.platformdefense.huge_coin"
+                },
+                "big_coin": {
+                    "id": "com.magmon.platformdefense.big_coin"
+                },
+                "middle_coin": {
+                    "id": "com.magmon.platformdefense.middle_coin"
+                }, 
+                "pdf_remove_ads": {
+                    "type": "non_consumable", 
+                    "id": "pdf_remove_ads"
+                }, 
+                "pd_all_characters": {
+                    "type": "non_consumable", 
+                    "id": "pd_all_characters"
+                },
+                "small_coin": {
+                    "id": "com.magmon.platformdefense.small_coin"
+                },
+                "bree": {
+                    "type": "non_consumable",
+                    "id": "com.magmon.platformdefense.bree"
+                },
+                "tom": {
+                    "type": "non_consumable",
+                    "id": "com.magmon.platformdefense.tom"
+                },
+                "karen": {
+                    "type": "non_consumable",
+                    "id": "com.magmon.platformdefense.karen"
+                },
+                "karl": {
+                    "type": "non_consumable",
+                    "id": "com.magmon.platformdefense.karl"
+                },
+                "andrew": {
+                    "type": "non_consumable",
+                    "id": "com.magmon.platformdefense.andrew"
+                },
+                "unlockfriends": {
+                    "type": "non_consumable",
+                    "id": "com.magmon.platformdefense.unlockfriends"
+                }
+            }, 
+            "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwWOAEb2tShmOQuQiH9/ruxUbklYR/oosVHGmnrgyjY/i/QPxfDiXeUn7rwiNDULG5SvIvziA7KCx/ifnCML2zqEH6B/k4ApL6DDbKV64Z1Y7bRO9+fvlCWBzoSD+vkIT5+rojff2arUff4XBkFajP9HeFvGDWKt2N8gR5DQWC/WxNkCkXHVLnNXZKaj/VBGvCIkvTXsKjWUFoEMOxkFkT+pJYy/tfyJahC/PnjRuZbB4XjVItfOFOvM7g1rmG6nF6clxPbEXzK8haHqLVCJOX0IMRZpWeBnVwFui3iU/WXqN/ZjwauYdwJlRD31DttaoaCVW8luyJrV3nI5fKHainQIDAQAB"
+        }
+    }, 
+    "ios": {
+        "GoogleAnalytics": {
+            "trackingCode": "UA-57024566-19"
+        }, 
+        "Chartboost": {
+            "signature": "c61d1bbde0ff3a9a4fc0e593a7287f7f9e208a61",
+            "id": "567a5bfd2fdf343e2e1f4493",
+            "ads": {
+                "Default": {
+                    "type": "interstitial"
+                }, 
+                "Level Complete": {
+                    "type": "rewarded_video"
+                }, 
+                "MoreApp": {
+                    "type": "more_app"
+                }
+            }
+        }, 
+        "Facebook": {
+            "debug": true
+        }, 
+        "iap": {
+            "items": {
+                "huge_coin": {
+                    "id": "com.magmon.PlatformDefense.huge_coin"
+                },
+                "big_coin": {
+                    "id": "com.magmon.PlatformDefense.big_coin"
+                },
+                "middle_coin": {
+                    "id": "com.magmon.PlatformDefense.middle_coin"
+                }, 
+                "pd_all_characters": {
+                    "type": "non_consumable", 
+                    "id": "pd_all_characters"
+                }, 
+                "small_coin": {
+                    "id": "com.magmon.PlatformDefense.small_coin"
+                },
+                "bree": {
+                    "type": "non_consumable",
+                    "id": "com.magmon.platformdefense.bree"
+                },
+                "tom": {
+                    "type": "non_consumable",
+                    "id": "com.magmon.platformdefense.tom"
+                },
+                "karen": {
+                    "type": "non_consumable",
+                    "id": "com.magmon.platformdefense.karen"
+                },
+                "karl": {
+                    "type": "non_consumable",
+                    "id": "com.magmon.platformdefense.karl"
+                },
+                "andrew": {
+                    "type": "non_consumable",
+                    "id": "com.magmon.platformdefense.andrew"
+                },
+                "unlockfriends": {
+                    "type": "non_consumable",
+                    "id": "com.magmon.platformdefense.unlockfriends"
+                }
+            }
+        }
+    }
+}

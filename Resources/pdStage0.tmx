@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="PDTileset" tilewidth="16" tileheight="16" tilecount="1024">
+  <image source="tileImage.png" width="512" height="512"/>
+  <tile id="0">
+   <properties>
+    <property name="Player" value="0"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="Spawn" value="true"/>
+   </properties>
+  </tile>
+  <tile id="64">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="65">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="66">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="67">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="68">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="69">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="70">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="71">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="72">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="96">
+   <properties>
+    <property name="Type" value="Block"/>
+   </properties>
+  </tile>
+  <tile id="224">
+   <properties>
+    <property name="Candle" value="true"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Back" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt07cNwEAMBMFnAzKNyDQi04hM/4muA+KjP0A7wAXMmGwpAAC01UUpvTZoY+S3q0m/zdqirZHfrjb9tmuHdkZ+u7r026092hv57Yo+vNCHF/rwQh9t1fbg2kdtD6591Pbg2kdtD659AAAAAAAAAPiXDxwLNGk=
+  </data>
+ </layer>
+ <layer name="Stage" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1tlOwlAYReG+miKKQ5xw5M4Eb50FfClnQXgIZieexnXZNKXxtKX8wl7JlxBIWnYgBzzPrZMMZNE87DjDOS5wiStc4wa3qKCKGu4M70jjWuV03mase2uHrR2n3v/bUQ6596zsSPO8srDDNe1IXtSOTWxhGzvYRRF72McBDnGE44jrTHuHa9qRvKgdy1jBAhaRwxLyvtcKWMWa4R2uWduR5u+ghc9j3LlU8sLPMKs7XLO2Y9a+V389p9axYWhH0rQjef4d93jAI57wjBe84g11NPCOJlqBx2EbpvE/sY0OuuihjwGG+MAnvvCNH4wCj0eBDXHPizj57+kX9lwcWe+YJO2Yvx1KKaWUUkoppZRS4/oFIBbXLQ==
+  </data>
+ </layer>
+ <layer name="Unit" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztzsENABAQAEH03yQaUYHEQ5ww89zXpgTAS/Kk96MXANyuRg8AfKJED2zUogcAAAAAABYM9SECqg==
+  </data>
+ </layer>
+ <layer name="Guide" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt0QEJAEAIBEH7t3gsKg+GUJmBDXBcBADAfa/bLrvt/DHL3+APAAAAAAAALiglcgeb
+  </data>
+ </layer>
+ <layer name="Deco" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztz9ENQEAURNFdKkElqGTpvwejBh/yknOS+z/TGgAAAPDqvbUpzf3vJd8s2b+mrfCPkfbsP9JZ/MfI/ivdxX8AAAAAAFTwAJmfA4g=
+  </data>
+ </layer>
+</map>

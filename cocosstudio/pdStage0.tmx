@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="PDTileset" tilewidth="16" tileheight="16" tilecount="1024">
+  <image source="tileImage.png" width="512" height="512"/>
+  <tile id="0">
+   <properties>
+    <property name="Player" value="0"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="Spawn" value="true"/>
+   </properties>
+  </tile>
+  <tile id="64">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="65">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="66">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="67">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="68">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="69">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="70">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="71">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="72">
+   <properties>
+    <property name="Type" value="OneWay"/>
+   </properties>
+  </tile>
+  <tile id="96">
+   <properties>
+    <property name="Type" value="Block"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Stage" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztloEKgjAURd+vldrqMwbt/3+hBT6U8TbKactxDlyktzRvHlQRUHxFWvE0ZlvPydrHOv4R7N3DJ5/P3GMdenyH9TtB6NGyxyXmGjPEjLL0cMbaFHPLrPl57b29xzx+3CP9D896PXrpkfMq55TOLa80eLWNnnrkvFr7ZDmmM/UNr+rpqUfpOah+pM9Anbt5Pgle7UFPPT7xqnS/GmTxykl7r2ppfT327hGkrVeld/SSX+l3RmnjVTgw9AAAAAAAAAAAAPhfXlJbhpc=
+  </data>
+ </layer>
+ <layer name="Unit" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1TsKwCAQBUCTm0k+9z9SLCKkC6wJgs7Aw2phi4ebEgDV0nuByeQ7kbnnC1VObb1qmWds0V5sJXvJUXJ+uhEjiPw5OsWb6C3Trf+svRcAAAAAAJjMBT61CA0=
+  </data>
+ </layer>
+</map>

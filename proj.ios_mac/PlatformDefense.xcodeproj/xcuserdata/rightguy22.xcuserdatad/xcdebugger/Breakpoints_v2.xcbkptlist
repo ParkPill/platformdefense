@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../cocos2d/cocos/2d/CCLabel.cpp"
+            timestampString = "468850016.972315"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "1"
+            endingLineNumber = "1">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cocos2d::LabelLetter::~LabelLetter()"
+                  moduleName = "PlatformDefense-mobile"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rightguy22/Dev/CocosProjects/PlatformDefense/cocos2d/cocos/2d/CCLabel.cpp"
+                  timestampString = "472568373.167272"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "10">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cocos2d::LabelLetter::~LabelLetter()"
+                  moduleName = "PlatformDefense-mobile"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rightguy22/Dev/CocosProjects/PlatformDefense/cocos2d/cocos/2d/CCLabel.cpp"
+                  timestampString = "472568373.167394"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "10">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "non-virtual thunk to cocos2d::LabelLetter::~LabelLetter()"
+                  moduleName = "PlatformDefense-mobile"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rightguy22/Dev/CocosProjects/PlatformDefense/cocos2d/cocos/2d/CCLabel.cpp"
+                  timestampString = "472568373.167497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "non-virtual thunk to cocos2d::LabelLetter::~LabelLetter()"
+                  moduleName = "PlatformDefense-mobile"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rightguy22/Dev/CocosProjects/PlatformDefense/cocos2d/cocos/2d/CCLabel.cpp"
+                  timestampString = "472568373.1676"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "8">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "cocos2d::LabelLetter::~LabelLetter()"
+                  moduleName = "PlatformDefense-mobile"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rightguy22/Dev/CocosProjects/PlatformDefense/cocos2d/cocos/2d/CCLabel.cpp"
+                  timestampString = "472568373.1677"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "10">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Classes/HelloWorldScene.cpp"
+            timestampString = "469725550.969481"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4215"
+            endingLineNumber = "4215"
+            landmarkName = "HelloWorld::checkForAndResolveCollisionsForBouncing(Droppable* p)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../Classes/HelloWorldScene.cpp"
+            timestampString = "469725550.969481"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "4243"
+            endingLineNumber = "4243"
+            landmarkName = "HelloWorld::checkForAndResolveCollisionsForBouncing(Droppable* p)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

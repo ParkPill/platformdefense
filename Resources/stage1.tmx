@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="15" tilewidth="100" tileheight="100" nextobjectid="1">
+ <tileset firstgid="1" name="tileImage" tilewidth="100" tileheight="100" tilecount="12">
+  <image source="../../Timing/Resources/tileImage.png" width="400" height="300"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="15">
+  <data encoding="base64" compression="zlib">
+   eJxjYWBgYBnFVMecRGBqmUOqmSDMQQCT4ldGIsxjonLYkeJXesQxLdLMQPtvMGIAeBsFqg==
+  </data>
+ </layer>
+</map>
